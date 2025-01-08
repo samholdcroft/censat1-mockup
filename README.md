@@ -1,2 +1,2 @@
 # censat1-mockup
-Mockup of the payloads for CENSSAT-1 as a STEP file, with a rough suggestion for layout
+This repo contains a suggestion for the layout of the CENSSAT-1. This layout is not a requirement, it is simply to illustrate the sizes of the various payloads and some of their positional requirements - full details of which can be found on the appropriate ICDs. 
